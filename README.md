@@ -24,8 +24,8 @@ password: adminpass
 
 3. User:
 
-username: user
+username: admin
 
-password: userpass
+password: admin
 
 This is a simple php, javascript, html, css blog website.
