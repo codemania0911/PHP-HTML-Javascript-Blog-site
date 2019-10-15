@@ -28,3 +28,4 @@ username: user
 
 password: userpass
 
+This is a simple php, javascript, html, css blog website.
