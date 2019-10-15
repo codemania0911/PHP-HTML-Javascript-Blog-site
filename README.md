@@ -9,13 +9,6 @@
 - MySQL DB
 - Ability to write .htaccess file for apache mod_rewrite
 
-### Installation
-- Upload NEWS-BUZZ to the directory of your choice.
-- Import MySql Db file to your database software (E.g : Php_My_Admin )
-- Configure connection to your database and server by modifying connection.php file
-- Navigate to the installation in your browser
-- Done :)
-
 ### Login Details
 1. Super-Admin:
 
