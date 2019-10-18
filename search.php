@@ -1,8 +1,8 @@
 
 <?php include 'includes/header.php';?>
-        <!-- Navigation Bar -->
+        <!----- Navigation Bar ----->
    <?php include 'includes/navbar.php';?>
-        <!-- Navigation Bar -->
+        <!---- Navigation Bar ---->
 
     <div class="container">
         <div class="row">
