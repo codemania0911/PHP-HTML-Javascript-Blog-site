@@ -51,10 +51,7 @@ else {
 }
 ?>
 
-
-
-
-
+<hr>
 	        	<hr>
 	        	<ul class="pager">
 				  <li class="previous"><a href="#"><span class="glyphicon glyphicon-arrow-left"></span> Older</a></li>
